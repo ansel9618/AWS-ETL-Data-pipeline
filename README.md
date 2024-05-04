@@ -29,3 +29,5 @@ pip install spotipy
 * Building automated trigger on transformation function
 * Store files on S3 properly
 * Building Analytics Tables on data files using Glue and Athena
+
+Extract data from API -> Lambda Trigger (every 1 hour) -> Run extract code -> Store raw data ->trigger transform function -> transform data and load it -> Query using Athena
