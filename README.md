@@ -2,7 +2,7 @@
 
 
 ### Introduction
-In this pipeline we build an ETL using spotify API. THe pipeline will retriee data from the spotify API and then transform it to a desired format and then load it into an AWS data store
+In this pipeline we build an ETL using spotify API. THe pipeline will retrieve data from the spotify API and then transform it to a desired format and then load it into an AWS data store
 
 ### Architecture
 ![](https://github.com/ansel9618/AWS-ETL-Data-pipeline/blob/main/images/2.0_architecture.png)
